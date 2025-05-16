@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "id": "brand-voice",
+      "name": "Brand Voice Guidelines",
+      "description": "Guidelines for maintaining the itsFurnished brand voice in all user-facing text.",
+      "glob": ["**/*.html", "**/*.md", "**/*.txt"],
+      "example_match": "Ensure all website copy uses a friendly and professional tone.",
+      "positive_examples": [
+        "// TODO: Add positive examples of your brand voice here"
+      ],
+      "negative_examples": [
+        "// TODO: Add negative examples (what to avoid) here"
+      ],
+      "content": [
+        {
+          "type": "text",
+          "value": "Brand Voice\n\nAdjectives:\n\n1. Trustworthy\n2. Inviting\n3. No-fuss\n4. Aspirational\n\nThey strike a perfect balance between reliability and appeal—key for attracting midterm renters:\nTrustworthy gives your brand credibility, reassuring renters about security and professionalism.\n\nInviting creates a warm, welcoming atmosphere, helping users feel comfortable and valued.\n\nNo-fuss communicates ease and simplicity, something renters will appreciate in their search for a hassle-free experience.\n\nAspirational adds an exciting edge, encouraging users to envision a better living experience.\n\nThese four adjectives should give your brand a solid foundation to appeal to renters while conveying professionalism, warmth, and ease.\n\nI love the idea of making your brand feel like a real human, with just a bit of discomfort or contrast to keep it grounded and authentic. That slight discrepancy in tone can help avoid sounding too \"perfect\" or sterile, which often makes brands feel more relatable.\nLooking at your four adjectives:\nTrustworthy and aspirational have a natural contrast—trustworthy feels more down-to-earth and practical, while aspirational leans more dreamy and future-focused. This gives your brand a subtle tension between being reliable and pushing toward something bigger or more exciting.\n\nInviting and no-fuss are softer and more aligned in tone, but there's a hint of difference in their approach. Inviting suggests warmth and openness, whereas no-fuss is about simplicity and efficiency. It's like saying, \"We're here for you, but we won't bog you down with complexity.\"\n\nTogether, these create a kind of playful tension that feels human—someone who's warm and friendly but also clear-headed and no-nonsense when it comes to getting things done.\nI'd say there's enough dissonance here to make it feel authentic, without being too \"polished.\" It gives a nice mix of approachability, practicality, and big-picture thinking, which will keep your brand from feeling overly mechanical or one-dimensional.\n\nColors:\n\nSlate Blue:\nTrustworthy, stable, reliable\nHex: #2F3E46\nLiked by a wide audience and is generally non-polarizing\n\nSage:\nNo-Fuss, Fresh, Clean\nHex: #9DBBAE\nA grounded green tone with clarity and ease built in\n\nBlush Peach:\nAspirational, Warm, Friendly\nHex: #EB6A69\nWarmer and softer than coral, perfect for a welcoming vibe\n\nFont:\nInter\nWhy: Clean, highly readable, modern but neutral — doesn't draw too much attention to itself\nVibe: Professional, no-fuss, trustworthy\nFree on Google Fonts\n\nSEO Keywords:\n\nPrimary Keyword: \"mid-term rentals near me\"\nThis is a high-performing search term and should be prominently included in:\n- Page titles\n- Meta descriptions\n- H1 headings\n- First paragraph of content\n- URL structures when possible\n- Image alt text where relevant\n\nAlways incorporate this phrase naturally while maintaining the brand voice. Avoid keyword stuffing while ensuring the phrase appears in key SEO locations."
+        }
+      ]
+    }
+  ]
+}
